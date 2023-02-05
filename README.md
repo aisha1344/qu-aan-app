@@ -3,15 +3,8 @@
 Application of Holy book of Muslims, Al-Qur'an. Developed using Flutter
 The data is fetched using API and now the **offline mode** is available. So, you need internet for the first time only!
 
-<img src="https://user-images.githubusercontent.com/43790152/163690699-e5a08def-5b9b-49f2-93d4-7f3ff5ee1862.png">
 
 <div align="center">
-
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
-[![GitHub Forks](https://img.shields.io/github/forks/saadhaxxan/Car_Game_Python_Pygame.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/m-hamzashakeel/The_Holy_Quran_App/fork)
-[![GitHub Issues](https://img.shields.io/github/issues/saadhaxxan/Car_Game_Python_Pygame.svg?style=flat&label=Issues&maxAge=2592000)](https://github.com/m-hamzashakeel/The_Holy_Quran_App/issues)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
-
 </div>
 
 
